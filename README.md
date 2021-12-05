@@ -1,6 +1,6 @@
 # Benvenuto nel mio profilo 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-ilie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-ilie)](https://github.com/alessandro-ilie/alessandro-ilie)
 
 # 🤔
 
