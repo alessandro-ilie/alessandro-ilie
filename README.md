@@ -1,10 +1,10 @@
-# Benvenuto nel mio profilo 👋
+# Welcome 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-ilie)](https://github.com/alessandro-ilie/alessandro-ilie)
 
 # 🤔
 
-Studente Liceale, appassionato tech, futuro diplomato in Informatica e Telecomunicazioni 🌱
+Student, tech passionate, future major in CS and System Engineering 🌱
 
-Se vuoi rubacchiare una sezione o un codice intero dalle mie repository, rispetta le normative dettate dalla GNU GPL v3.0 ⚡
+Wanna 'borrow' some of my code, you can but following the rules provided by the GNU GPL v3.0 ⚡
 #
